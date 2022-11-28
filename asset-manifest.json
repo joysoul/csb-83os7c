@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://joysoul.github.io/csb-83os7c/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://joysoul.github.io/csb-83os7c/static/js/main.9e755b89.chunk.js",
+    "main.js.map": "https://joysoul.github.io/csb-83os7c/static/js/main.9e755b89.chunk.js.map",
+    "runtime-main.js": "https://joysoul.github.io/csb-83os7c/static/js/runtime-main.0990c6f1.js",
+    "runtime-main.js.map": "https://joysoul.github.io/csb-83os7c/static/js/runtime-main.0990c6f1.js.map",
+    "static/js/2.b9b26f43.chunk.js": "https://joysoul.github.io/csb-83os7c/static/js/2.b9b26f43.chunk.js",
+    "static/js/2.b9b26f43.chunk.js.map": "https://joysoul.github.io/csb-83os7c/static/js/2.b9b26f43.chunk.js.map",
+    "index.html": "https://joysoul.github.io/csb-83os7c/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://joysoul.github.io/csb-83os7c/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b9b26f43.chunk.js.LICENSE.txt": "https://joysoul.github.io/csb-83os7c/static/js/2.b9b26f43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0990c6f1.js",
+    "static/js/2.b9b26f43.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9e755b89.chunk.js"
+  ]
+}
